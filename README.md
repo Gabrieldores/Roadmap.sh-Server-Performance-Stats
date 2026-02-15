@@ -1,4 +1,5 @@
 # Server Performance Stats
+project url: https://roadmap.sh/projects/server-stats
 
 This is a lightweight Bash script designed to provide a quick snapshot of a Linux server's health. It was developed as part of the [Roadmap.sh](https://roadmap.sh/projects/server-stats) DevOps projects.
 
